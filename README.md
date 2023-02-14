@@ -1,2 +1,3 @@
-# InterfaceAlura
-Desafio dado pelo Grupo Boticário para realizar a interface do site Alura.
+# Interface Alura
+Desafio dado pela equipe da Alura para realizar a interface do site Desenvolve.
+
