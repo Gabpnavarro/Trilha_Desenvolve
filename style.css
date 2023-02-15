@@ -96,15 +96,86 @@ p{
     margin-bottom: 1em;
 }
 
-button {
+.trilhas a{
     border: solid 1px;
     padding: 1rem;
     width: auto;
     border-radius: 4px;
     border: #264FEC 1px solid;
     color: #264FEC;
-    width: 42%;
+    width: 44%;
     height: 47.48px;
     background-color: transparent;
     font-size: 14px;
+    text-decoration: none;
+}
+
+.trilhas a:hover{
+    background-color: #264FEC;
+    color: white;
+    border: #525071 solid 1px;
+    transition: 500ms;
+}
+
+footer{
+    background-color: white;
+    display: flex;
+    height: 110px;
+}
+
+.container-footer{
+    
+    width: 1280px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+.container-logos{
+    display: flex;
+    align-items: center;
+}
+
+.container-logos img:nth-child(2){
+    margin-left: 27px;
+}
+
+.suporte{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.suporte a {
+    text-decoration: none;
+    color: black;
+}
+.suporte a:nth-child(1){
+    margin-bottom: 8px;
+}
+
+.container-extra{
+    display: flex;
+    gap: 60px;
+}
+
+.divisoria{
+    display: flex;
+    flex-direction: column;
+}
+
+#centro{
+    padding: 0 30px;
+}
+
+.redes-sociais{
+    margin-bottom:  18px;
+}
+
+.grupo-boticario a {
+    color: black;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
 }
