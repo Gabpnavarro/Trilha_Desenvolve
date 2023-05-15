@@ -1,4 +1,4 @@
-# Desafio de Interface da Boticário - Desenvolve
+# Desafio de Interface da Alura - Desenvolve 2023
 
 <p>Este é o resultado do desafio dado pela equipe da Alura para replicar a interface do site sobre a trilha desenvolve. O resultado final pode ser conferido <a href="https://interface-alura.vercel.app/" target="_blank">aqui</a>.</p>
 
